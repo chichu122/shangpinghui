@@ -1,0 +1,34 @@
+import { reqAddressInfo, reqOrderInfo } from "@/api";
+
+const state = {
+    address : [],
+};
+const mutations = {
+    GETUSERADDRESS(state,address){
+        state.address = address;
+    },
+    GETORDERINFO(state,){}
+};
+const actions = {
+    // 获取yong'hu'di'zhi
+    async getUserAddress({commit}){
+        let result = await reqAddressInfo();
+        if(result.code==200){
+            commit('GETUSERADDRESS',result.data)
+        }
+    },
+    async getOrderInfo({commit}){
+        let result = await reqOrderInfo();
+        if(result.code==200){
+            commit('GETORDERINFO',result.data)
+        }
+    }
+};
+const getters = {};
+
+export default {
+    state,
+    mutations,
+    actions,
+    getters,
+}
