@@ -56,10 +56,10 @@
         <li>营销中心</li>
         <li>手机思源</li>
         <li>销售联盟</li>
-        <li>思源社区</li>
+        <li>尚品汇社区</li>
       </ul>
-      <div class="address">地址：上海交通大学</div>
-      <div class="beian">江川路800号
+      <div class="address">地址：北京市昌平区宏福科技园综合楼6层</div>
+      <div class="beian">京ICP备19006430号
       </div>
     </div>
   </div>

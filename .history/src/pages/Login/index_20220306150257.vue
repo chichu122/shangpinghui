@@ -96,7 +96,7 @@
   .login-container {
     .login-wrap {
       height: 487px;
-      background-color: #e93854;
+      background-color: #7638e9;
 
       .login {
         width: 1200px;

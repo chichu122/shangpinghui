@@ -23,7 +23,7 @@
           <a href="###">我的思源</a>
           <a href="###">思源会员</a>
           <a href="###">企业采购</a>
-          <a href="###">关注思源商城</a>
+          <a href="###">关注</a>
           <a href="###">合作招商</a>
           <a href="###">商家后台</a>
         </div>
@@ -33,7 +33,7 @@
     <div class="bottom">
       <h1 class="logoArea">
         <router-link class="logo" to="/home">
-          <img src="./images/logo.png" alt="" />
+          <img src="./images/logo1.jpeg" alt="" />
         </router-link>
       </h1>
       <div class="searchArea">
@@ -159,7 +159,7 @@ export default {
 
       .logo {
         img {
-          width: 150px;
+          width: 80px;
           margin: 25px 45px;
         }
       }

@@ -59,7 +59,7 @@
         <li>思源社区</li>
       </ul>
       <div class="address">地址：上海交通大学</div>
-      <div class="beian">江川路800号
+      <div class="beian">京ICP备19006430号
       </div>
     </div>
   </div>

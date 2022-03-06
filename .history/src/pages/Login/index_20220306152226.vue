@@ -96,13 +96,14 @@
   .login-container {
     .login-wrap {
       height: 487px;
-      background-color: #e93854;
+      background-color: #0d157e;
 
       .login {
         width: 1200px;
         height: 487px;
         margin: 0 auto;
-        background: url(./images/loginbg.png) no-repeat;
+        background: url(./images/back2.jpeg) no-repeat;
+        background-color:ta
       }
 
       .loginform {

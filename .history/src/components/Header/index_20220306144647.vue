@@ -159,7 +159,7 @@ export default {
 
       .logo {
         img {
-          width: 150px;
+          width: 80px;
           margin: 25px 45px;
         }
       }
